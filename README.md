@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Computer Science Engineering undergraduate with a strong interest in data-driven problem solving and applied machine learning.<br><br>I have worked on end-to-end machine learning projects involving exploratory data analysis, classical ML models, neural networks, and model evaluation. Recently, I built an AI-powered campus assistant that leverages large language models and retrieval-based techniques to provide context-aware responses.<br><br>My primary focus areas include Data Structures and Algorithms, machine learning fundamentals, and building practical systems that translate theory into working solutions. I value clean code, clear reasoning, and a strong understanding of core computer science concepts.<br><br>I am continuously improving my technical depth through hands-on projects, structured learning, and consistent practice.<br>
 
 
